@@ -1,7 +1,6 @@
 package jihun.security.corespringsecurity.service.impl;
 
 import jakarta.transaction.Transactional;
-import jihun.security.corespringsecurity.domain.Account;
 import jihun.security.corespringsecurity.domain.AccountDto;
 import jihun.security.corespringsecurity.repository.UserRepository;
 import jihun.security.corespringsecurity.service.UserService;
